@@ -1,19 +1,19 @@
 # Weather App
 
-The Weather App is a web application built with React that allows users to check the current weather conditions for various locations. It provides real-time weather information, including temperature, humidity, wind speed, and more.
+The Weather App is a web application built with React that allows users to check the current weather conditions for various locations. It provides real-time weather information
 
 
 
 ## Features
 
-- **Current Weather:** Display the current weather conditions for a specific location, including temperature, humidity, and weather description.
+- **Current Weather:** Display the current weather conditions for a specific location
 - **Search:** Search for weather information by entering a city or location.
 - **Multiple Locations:** View the weather for different locations.
 - **Responsive Design:** Works seamlessly on both desktop and mobile devices.
 
-## Demo
 
-You can access a live demo of the Weather App at [https://your-demo-url-here.com](https://your-demo-url-here.com).
+
+
 
 ## Installation
 
